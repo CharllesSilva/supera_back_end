@@ -33,12 +33,6 @@ cd supera_back_end
 mvn clean install
 ```
 
-4. Execute a aplicação:
-
-```bash
-java -jar target/nome-do-arquivo.jar
-```
-
 ## Uso
 
 Após executar a aplicação, você pode interagir com a API usando a URL de teste a seguir:
