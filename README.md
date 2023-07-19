@@ -9,7 +9,7 @@ O projeto foi desenvolvido para solucionar o desafio proposto e está disponíve
 
 Certifique-se de ter o seguinte software instalado em sua máquina:
 
-- Java Development Kit (JDK) versão 11 ou superior: [Download JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+- Java Development Kit (JDK) versão 11
 
 ## Instalação
 
